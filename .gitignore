@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+
+# Uploads and generated media
+user_uploads/
+static/reel/
+
+# Logs / temp files
+done.txt
+errors.txt
+ffmpeg_command.txt
+
+# Config files (if they contain secrets or machine-specific settings)
+config.py
+
+# (Optional) OS files
+.DS_Store
+Thumbs.db
+
+# (Optional) IDE settings
+.vscode/
+.idea/
+
+# (Optional) virtualenv
+venv/
+env/
+
