@@ -1,4 +1,4 @@
-# This file looks for new folders inside user_uploads and converts them to reel if they are alreadt not created
+# This file looks for new folders inside user_uploads and converts them to reel if they are already not created
 
 import os
 from text_to_audio import text_to_speech_file
